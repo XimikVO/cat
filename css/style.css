@@ -1,0 +1,27 @@
+body{
+	background-color: #000;
+}
+.ooo{
+	text-decoration: none;
+	display: block;
+	height: 40px;
+	width: 175px;
+	background: #fff;
+	color: #000;
+	margin: 0 auto;
+	padding-left: 45px;
+	font-size: 15pt;
+	font-family: Lato;
+	padding-top: 10px;
+}
+.img-kar{
+	margin-top: 50px;
+	vertical-align: middle;
+	text-align: center;
+}
+.kartinka{
+	width: 800px;
+	right: 0;
+	left: 0;
+	margin: auto;
+}
